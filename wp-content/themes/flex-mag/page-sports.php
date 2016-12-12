@@ -1,6 +1,7 @@
 <?php
 /* Template Name: Sports Category
    Author: Anthony Hoang
+   Date" 12/12/2016
 */
 ?>
 <?php get_header(); ?>
