@@ -1,11 +1,12 @@
 <?php
-/* Template Name: Sports Category
+/* Template Name: Sports Category for Streaming Games by Anthony Hoang
    Author: Anthony Hoang
-   Date" 12/12/2016
+   show all available streaming games in the sports page
+   Date 12/12/2016
 */
 ?>
 <?php get_header(); ?>
-PAGE-Sports.PHP-ANTHONY
+PAGE-Sports.PHP-ANTHONY <-- remove this later
 
 
 
@@ -25,7 +26,7 @@ PAGE-Sports.PHP-ANTHONY
                         <div id="tab-col2" class="home-mid-col relative tab-col-cont">
                             <div id="sidebar-wrap" class="left relative">
 
-                                DIV-for-left-sidebar-is-here-Anthony
+                                DIV-for-left-sidebar-is-here-Anthony <-- remove this later
                                 <?php if ( is_active_sidebar( 'sidebar-widget-home-left' ) ) { ?>
                                     <?php dynamic_sidebar( 'sidebar-widget-home-left' ); ?>
                                 <?php } ?>
@@ -37,7 +38,7 @@ PAGE-Sports.PHP-ANTHONY
             </div><!--home-wrap-in1-->
             <div id="tab-col3" class="home-right-col relative tab-col-cont">
                 <div id="sidebar-wrap" class="left relative">
-                    Anthony-Post/Page Sidebar Widget
+                    Anthony-Post/Page Sidebar Widget <-- remove this later
                     <?php get_sidebar(); ?>
 
 

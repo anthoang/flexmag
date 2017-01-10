@@ -1,6 +1,8 @@
 <?php
-	/* Template Name: Sports Page
+	/* Template Name: Stream Links in a Game by Anthony Hoang
 	   Author: Anthony
+	   show the streaming links in a game
+       Date 1/10/2017
 	*/
 ?>
 <?php get_header(); ?>
